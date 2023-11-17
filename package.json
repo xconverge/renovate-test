@@ -15,5 +15,5 @@
   "resolutions": {
     "axios": "1.6.0"
   },
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.0.2"
 }
