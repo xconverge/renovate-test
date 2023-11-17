@@ -34,7 +34,7 @@
     "build": "tsc --project ./"
   },
   "resolutions": {
-    "cognito-express/axios": "1.6.1"
+    "cognito-express/axios": "1.6.2"
   },
   "packageManager": "yarn@4.0.2"
 }
