@@ -1114,15 +1114,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/nanoid@npm:3.0.0":
-  version: 3.0.0
-  resolution: "@types/nanoid@npm:3.0.0"
-  dependencies:
-    nanoid: "npm:*"
-  checksum: 6c6ab046f134046b684e3f969e783f00a8a68fdcd61762b7b3a34bd0484f6d13503eff88c05f2cac1dc39eb8cd692a24a144b5c0699d190207a3316a9ca158f0
-  languageName: node
-  linkType: hard
-
 "@types/node@npm:*, @types/node@npm:20.9.1":
   version: 20.9.1
   resolution: "@types/node@npm:20.9.1"
@@ -3960,24 +3951,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:*":
-  version: 5.0.3
-  resolution: "nanoid@npm:5.0.3"
-  bin:
-    nanoid: bin/nanoid.js
-  checksum: 903c5ff1fbc1fb5c2799d5febfed38d1b8dc7b42e4b76131daba9011cb5eca2e455a3f70ccd7da60aee4fe3e8269d1ba4e8960f57c01fb3b8975c896f70c3e2d
-  languageName: node
-  linkType: hard
-
-"nanoid@npm:3.3.7":
-  version: 3.3.7
-  resolution: "nanoid@npm:3.3.7"
-  bin:
-    nanoid: bin/nanoid.cjs
-  checksum: e3fb661aa083454f40500473bb69eedb85dc160e763150b9a2c567c7e9ff560ce028a9f833123b618a6ea742e311138b591910e795614a629029e86e180660f3
-  languageName: node
-  linkType: hard
-
 "natural-compare@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare@npm:1.4.0"
@@ -4959,7 +4932,6 @@ __metadata:
     "@types/express": "npm:4.17.21"
     "@types/jest": "npm:29.5.8"
     "@types/lodash": "npm:4.14.201"
-    "@types/nanoid": "npm:3.0.0"
     "@types/node": "npm:20.9.1"
     "@types/pg": "npm:8.10.9"
     "@typescript-eslint/eslint-plugin": "npm:6.11.0"
@@ -4972,7 +4944,6 @@ __metadata:
     jest: "npm:29.7.0"
     jest-junit: "npm:16.0.0"
     lodash: "npm:4.17.21"
-    nanoid: "npm:3.3.7"
     pg: "npm:8.11.3"
     postgres-migrations: "npm:5.3.0"
     prettier: "npm:3.1.0"
