@@ -3960,21 +3960,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:*":
+"nanoid@npm:*, nanoid@npm:5.0.3":
   version: 5.0.3
   resolution: "nanoid@npm:5.0.3"
   bin:
     nanoid: bin/nanoid.js
   checksum: 903c5ff1fbc1fb5c2799d5febfed38d1b8dc7b42e4b76131daba9011cb5eca2e455a3f70ccd7da60aee4fe3e8269d1ba4e8960f57c01fb3b8975c896f70c3e2d
-  languageName: node
-  linkType: hard
-
-"nanoid@npm:3.3.7":
-  version: 3.3.7
-  resolution: "nanoid@npm:3.3.7"
-  bin:
-    nanoid: bin/nanoid.cjs
-  checksum: e3fb661aa083454f40500473bb69eedb85dc160e763150b9a2c567c7e9ff560ce028a9f833123b618a6ea742e311138b591910e795614a629029e86e180660f3
   languageName: node
   linkType: hard
 
@@ -4972,7 +4963,7 @@ __metadata:
     jest: "npm:29.7.0"
     jest-junit: "npm:16.0.0"
     lodash: "npm:4.17.21"
-    nanoid: "npm:3.3.7"
+    nanoid: "npm:5.0.3"
     pg: "npm:8.11.3"
     postgres-migrations: "npm:5.3.0"
     prettier: "npm:3.1.0"
