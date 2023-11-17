@@ -1,4 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "recreateWhen": "always"
+  "recreateWhen": "always",
+  "rangeStrategy": "pin",
+  "prHourlyLimit": 0
 }
